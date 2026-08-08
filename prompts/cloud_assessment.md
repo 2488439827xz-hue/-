@@ -2,7 +2,7 @@
 
 ## 目标
 
-基于输入的候选仓库证据，选出 3–5 个对正在学习 AI 产品管理的读者真正有价值的项目。优先 Agent、Agent Skill 与 Agent 工作流。输出必须符合调用方提供的 JSON Schema。
+基于输入的候选仓库证据，选出 3–5 个对正在学习 AI 产品管理的读者真正有价值的项目。优先 Agent、Agent Skill 与 Agent 工作流。只输出合法 JSON，并严格符合调用方附加的 JSON Schema。
 
 ## 读者与决策
 
@@ -19,7 +19,7 @@
 
 ## 评分
 
-每项 0–10 分：personal_relevance 25%、problem_value 15%、practicality 15%、uniqueness 10%、maturity 10%、learning_value 10%、portfolio_value 10%、evidence_confidence 5%。overall_score 为加权结果乘以 10，四舍五入到 1 位小数。
+每项 0–10 分：personal_relevance 25%、problem_value 15%、practicality 15%、uniqueness 10%、maturity 10%、learning_value 10%、portfolio_value 10%、evidence_confidence 5%。overall_score 为加权结果乘以 10，四舍五入到 1 位小数；程序会根据维度分重新计算它，模型计算值不被直接信任。
 
 ## 写作要求
 

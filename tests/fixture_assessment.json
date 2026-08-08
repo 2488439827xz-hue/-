@@ -23,7 +23,7 @@
         "portfolio_value": 7,
         "evidence_confidence": 2
       },
-      "overall_score": 69.5,
+      "overall_score": 68.0,
       "confidence": "低：这是测试夹具"
     },
     {
@@ -47,7 +47,7 @@
         "portfolio_value": 8,
         "evidence_confidence": 2
       },
-      "overall_score": 69.0,
+      "overall_score": 67.5,
       "confidence": "低：这是测试夹具"
     },
     {
@@ -71,11 +71,10 @@
         "portfolio_value": 5,
         "evidence_confidence": 2
       },
-      "overall_score": 63.5,
+      "overall_score": 61.5,
       "confidence": "低：这是测试夹具"
     }
   ],
   "spotlight": "测试重点：区分 Agent、Skill、工具和工作流，并验证日报能否支持一次产品判断。",
   "reflection_question": "如果一个 Agent 项目拥有大量 Star，但缺少许可证和可运行示例，你会如何判断是否推荐？"
 }
-

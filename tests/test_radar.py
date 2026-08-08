@@ -18,6 +18,18 @@ class RadarTests(unittest.TestCase):
     def test_fixture_is_valid(self):
         self.assertEqual(radar.validate_assessment(self.fixture, self.config), [])
 
+    def test_validator_fails_closed_on_wrong_json_types(self):
+        errors = radar.validate_assessment({"items": ["not-an-object"]}, self.config)
+        self.assertIn("items[0] must be an object", errors)
+        self.assertGreater(len(errors), 1)
+
+    def test_overall_score_is_recomputed_by_program(self):
+        payload = json.loads(json.dumps(self.fixture, ensure_ascii=False))
+        payload["items"][0]["overall_score"] = 0
+        radar.normalize_assessment_scores(payload)
+        self.assertEqual(payload["items"][0]["overall_score"], 68.0)
+        self.assertEqual(radar.validate_assessment(payload, self.config), [])
+
     def test_render_contains_required_sections(self):
         rendered = radar.render_report(self.fixture)
         self.assertIn("AI GitHub Radar", rendered)
@@ -106,6 +118,88 @@ class RadarTests(unittest.TestCase):
         self.assertFalse(body["store"])
         self.assertEqual(assessment["date"], self.fixture["date"])
         self.assertEqual(metadata["response_id"], "resp_test")
+
+    def test_deepseek_request_uses_json_output(self):
+        class FakeResponse:
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *_args):
+                return False
+
+            def read(self):
+                return json.dumps(
+                    {
+                        "id": "deepseek_resp_test",
+                        "model": "deepseek-v4-flash",
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {
+                                    "content": json.dumps(self_payload, ensure_ascii=False)
+                                },
+                            }
+                        ],
+                        "usage": {"prompt_tokens": 10, "completion_tokens": 20},
+                    }
+                ).encode("utf-8")
+
+        self_payload = self.fixture
+        client = radar.DeepSeekChatClient("test-key", max_attempts=1)
+        with patch.object(radar.urllib.request, "urlopen", return_value=FakeResponse()) as call:
+            assessment, metadata = client.create_assessment(
+                {"date": "2026-08-04", "candidates": []}, self.config, "test JSON instruction"
+            )
+        request = call.call_args.args[0]
+        body = json.loads(request.data.decode("utf-8"))
+        self.assertEqual(request.full_url, "https://api.deepseek.com/chat/completions")
+        self.assertEqual(body["response_format"], {"type": "json_object"})
+        self.assertEqual(body["thinking"], {"type": "disabled"})
+        self.assertIn("JSON Schema", body["messages"][0]["content"])
+        self.assertEqual(assessment["date"], self.fixture["date"])
+        self.assertEqual(metadata["provider"], "deepseek")
+
+    def test_deepseek_retries_an_empty_json_response(self):
+        class FakeResponse:
+            def __init__(self, content):
+                self.content = content
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *_args):
+                return False
+
+            def read(self):
+                return json.dumps(
+                    {
+                        "id": "retry-test",
+                        "model": "deepseek-v4-flash",
+                        "choices": [
+                            {
+                                "finish_reason": "stop",
+                                "message": {"content": self.content},
+                            }
+                        ],
+                    }
+                ).encode("utf-8")
+
+        responses = [FakeResponse(""), FakeResponse(json.dumps(self.fixture, ensure_ascii=False))]
+        client = radar.DeepSeekChatClient("test-key", max_attempts=2)
+        with patch.object(
+            radar.urllib.request, "urlopen", side_effect=responses
+        ) as call, patch.object(radar.time, "sleep"):
+            assessment, _metadata = client.create_assessment(
+                {"date": "2026-08-04", "candidates": []}, self.config, "JSON"
+            )
+        self.assertEqual(call.call_count, 2)
+        self.assertEqual(assessment["date"], self.fixture["date"])
+
+    def test_deepseek_is_the_default_provider(self):
+        with patch.dict(os.environ, {"DEEPSEEK_API_KEY": "test-key"}, clear=True):
+            client = radar.build_ai_client(self.config)
+        self.assertIsInstance(client, radar.DeepSeekChatClient)
+        self.assertEqual(client.model, "deepseek-v4-flash")
 
     def test_delivery_receipt_prevents_duplicate_send(self):
         with tempfile.TemporaryDirectory() as directory:

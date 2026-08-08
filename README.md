@@ -8,21 +8,21 @@
 flowchart LR
     A["GitHub Search API"] --> B["去重与确定性预筛"]
     B --> C["候选事实 JSON"]
-    C --> D["OpenAI Responses API 结构化评估"]
+    C --> D["DeepSeek JSON 评估（OpenAI 可选）"]
     D --> E["结构校验与 Markdown 渲染"]
     E --> F["GitHub Actions 07:40 推送飞书"]
     F --> G["用户选择是否深挖"]
     G --> H["产品分析 / 学习 / 作品集"]
 ```
 
-项目刻意将“事实计算”和“模型判断”分开：`radar.py` 负责 API、缓存、趋势、工程信号、结构校验和投递；OpenAI 模型负责理解项目解决的问题、独特价值、个人相关性和作品集机会。GitHub Actions 负责无人值守调度，本地 Codex 负责调试、学习和深挖。
+项目刻意将“事实计算”和“模型判断”分开：`radar.py` 负责 API、缓存、趋势、工程信号、结构校验和投递；默认由 DeepSeek 理解项目解决的问题、独特价值、个人相关性和作品集机会，也可切换到 OpenAI。GitHub Actions 负责无人值守调度，本地 Codex 负责调试、学习和深挖。
 
 ## 文件说明
 
 - `radar.py`：无第三方依赖的采集、校验、渲染和飞书投递程序。
 - `config.json`：主题、查询、候选数量和发送时间。
 - `prompts/daily_assessment.md`：自动化每日执行的 AI 评估契约。
-- `prompts/cloud_assessment.md`：云端 Responses API 使用的精简评估契约。
+- `prompts/cloud_assessment.md`：不同模型 Provider 共用的云端评估契约。
 - `.github/workflows/daily-radar.yml`：北京时间 07:40 的云端工作流。
 - `docs/PRD.md`：需求、MVP、指标、风险和验收标准。
 - `docs/SCORING_AND_EVALUATION.md`：双层评分与 AI 评测方案。
@@ -37,7 +37,7 @@ flowchart LR
 2. 把飞书自定义机器人的 Webhook 填入 `FEISHU_WEBHOOK_URL`。
 3. 如果机器人启用了签名校验，填入 `FEISHU_SIGNING_SECRET`。
 4. 可选：创建只需读取公共仓库的 GitHub Token，填入 `GITHUB_TOKEN`，以获得更高限额。
-5. 云端无人值守评估需要 `OPENAI_API_KEY`；本地调试也可填入 `.env`。
+5. 云端默认需要 `DEEPSEEK_API_KEY`；切换 `AI_PROVIDER=openai` 时才需要 `OPENAI_API_KEY`。
 
 不要把 `.env`、Webhook、签名密钥或 Token 提交到 Git。
 

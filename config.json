@@ -7,6 +7,9 @@
   "readme_limit": 18,
   "history_retention_days": 90,
   "ai_candidate_limit": 12,
+  "ai_provider": "deepseek",
+  "deepseek_model": "deepseek-v4-flash",
+  "deepseek_thinking": "disabled",
   "openai_model": "gpt-5.6-terra",
   "openai_reasoning_effort": "medium",
   "searches": [
