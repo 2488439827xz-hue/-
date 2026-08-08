@@ -1,0 +1,124 @@
+{
+  "repositories": {
+    "sickn33/agentic-awesome-skills": {
+      "stars": 44611,
+      "forks": 6548,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "linny006/awesome-agent-skills": {
+      "stars": 18,
+      "forks": 2,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "linny006/skills-tracker": {
+      "stars": 13,
+      "forks": 5,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "NVIDIA/SkillSpector": {
+      "stars": 14349,
+      "forks": 1200,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "zhuyansen/agent-skills-hub": {
+      "stars": 324,
+      "forks": 37,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "smith-horn/skillsmith": {
+      "stars": 74,
+      "forks": 17,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "linny006/claude-code-plugin-tracker": {
+      "stars": 3,
+      "forks": 1,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "slowdini/slow-powers": {
+      "stars": 2,
+      "forks": 0,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "bladeacer/lccst": {
+      "stars": 1,
+      "forks": 0,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "plotdevice01/codex-chief-of-staff": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "Bubu89/full-page-pdf-snap": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "timharris707/skills": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "dbt-labs/dbt-agent-skills": {
+      "stars": 652,
+      "forks": 60,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "MoizIbnYousaf/Ai-Agent-Skills": {
+      "stars": 1116,
+      "forks": 129,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "heilcheng/awesome-agent-skills": {
+      "stars": 6070,
+      "forks": 609,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "VoltAgent/awesome-agent-skills": {
+      "stars": 29795,
+      "forks": 3200,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "jaccen/Awesome-Gaussian-Skills": {
+      "stars": 136,
+      "forks": 10,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "CALLE-AI/awesome-phone-call-agents": {
+      "stars": 50,
+      "forks": 75,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "CherryHQ/cherry-studio": {
+      "stars": 50042,
+      "forks": 4735,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "K-Dense-AI/scientific-agent-skills": {
+      "stars": 32933,
+      "forks": 3246,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "larksuite/cli": {
+      "stars": 16257,
+      "forks": 1299,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "NeverSight/learn-skills.dev": {
+      "stars": 195,
+      "forks": 34,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "lu969181-boop/github-skill-dashboard": {
+      "stars": 27,
+      "forks": 7,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    },
+    "Tairitsua/Monica": {
+      "stars": 13,
+      "forks": 6,
+      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+    }
+  }
+}
