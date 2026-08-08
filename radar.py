@@ -453,6 +453,16 @@ def normalize_assessment_scores(payload: Any) -> None:
         calculated = calculate_value_score(item["scores"])
         if calculated is not None:
             item["overall_score"] = calculated
+    if all(isinstance(item, dict) for item in payload["items"]):
+        payload["items"].sort(
+            key=lambda item: (
+                item.get("overall_score", -1)
+                if isinstance(item.get("overall_score"), (int, float))
+                and not isinstance(item.get("overall_score"), bool)
+                else -1
+            ),
+            reverse=True,
+        )
 
 
 def assessment_json_schema(config: dict[str, Any]) -> dict[str, Any]:
@@ -843,6 +853,11 @@ def validate_assessment(payload: Any, config: dict[str, Any]) -> list[str]:
     return errors
 
 
+def format_list_values(values: list[Any]) -> str:
+    cleaned = [str(value).strip().rstrip("；;。") for value in values]
+    return "；".join(value for value in cleaned if value)
+
+
 def render_report(payload: dict[str, Any]) -> str:
     date_value = payload.get("date", datetime.now().date().isoformat())
     lines = [f"# AI GitHub Radar · {date_value}", ""]
@@ -861,8 +876,8 @@ def render_report(payload: dict[str, Any]) -> str:
                 f"- **与你的关系**：{item['for_you']}",
                 f"- **建议动作**：{item['possible_action']}",
                 "- **Star 原因假设**："
-                + "；".join(str(value) for value in item["star_reason_hypotheses"]),
-                "- **风险/限制**：" + "；".join(str(value) for value in item["risks"]),
+                + format_list_values(item["star_reason_hypotheses"]),
+                "- **风险/限制**：" + format_list_values(item["risks"]),
                 f"- **判断置信度**：{item['confidence']}",
                 "",
             ]

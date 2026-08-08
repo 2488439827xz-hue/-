@@ -30,11 +30,25 @@ class RadarTests(unittest.TestCase):
         self.assertEqual(payload["items"][0]["overall_score"], 68.0)
         self.assertEqual(radar.validate_assessment(payload, self.config), [])
 
+    def test_normalization_sorts_projects_by_final_score(self):
+        payload = json.loads(json.dumps(self.fixture, ensure_ascii=False))
+        payload["items"].reverse()
+        radar.normalize_assessment_scores(payload)
+        self.assertEqual(payload["items"][0]["overall_score"], 68.0)
+        self.assertEqual(payload["items"][-1]["overall_score"], 61.5)
+
     def test_render_contains_required_sections(self):
         rendered = radar.render_report(self.fixture)
         self.assertIn("AI GitHub Radar", rendered)
         self.assertIn("今日项目", rendered)
         self.assertIn("产品经理思考题", rendered)
+
+    def test_render_normalizes_model_list_punctuation(self):
+        payload = json.loads(json.dumps(self.fixture, ensure_ascii=False))
+        payload["items"][0]["star_reason_hypotheses"] = ["信号一；", "信号二。"]
+        rendered = radar.render_report(payload)
+        self.assertIn("信号一；信号二", rendered)
+        self.assertNotIn("信号一；；", rendered)
 
     def test_utf8_chunk_size(self):
         text = ("Agent Skill 是可复用能力。\n\n" * 2000).strip()
