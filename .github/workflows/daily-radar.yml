@@ -1,0 +1,72 @@
+name: Daily AI GitHub Radar
+
+on:
+  schedule:
+    - cron: "40 7 * * *"
+      timezone: "Asia/Shanghai"
+  workflow_dispatch:
+
+concurrency:
+  group: daily-ai-github-radar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Run unit tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Run collection, AI assessment, and Feishu delivery
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL || 'gpt-5.6-terra' }}
+          OPENAI_REASONING_EFFORT: ${{ vars.OPENAI_REASONING_EFFORT || 'medium' }}
+          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
+          FEISHU_SIGNING_SECRET: ${{ secrets.FEISHU_SIGNING_SECRET }}
+        run: python radar.py run-daily
+
+      - name: Persist report, trend history, and delivery receipt
+        if: success()
+        run: |
+          report_date="$(TZ=Asia/Shanghai date +%F)"
+          git config user.name "ai-github-radar[bot]"
+          git config user.email "ai-github-radar[bot]@users.noreply.github.com"
+          git add -f "reports/${report_date}.md" data/repo_history.json data/delivery_receipts.json
+          if git diff --cached --quiet; then
+            echo "No state changes to persist."
+          else
+            git commit -m "chore(radar): archive ${report_date} report"
+            git push
+          fi
+
+      - name: Upload diagnostic artifacts
+        if: always()
+        uses: actions/upload-artifact@v6
+        with:
+          name: radar-${{ github.run_id }}
+          path: |
+            data/candidates/*.json
+            data/assessments/*.json
+            reports/*.md
+          if-no-files-found: warn
+          retention-days: 14

@@ -1,0 +1,81 @@
+{
+  "date": "2026-08-04",
+  "executive_summary": "这是结构与投递链路测试，不代表真实推荐。",
+  "items": [
+    {
+      "repo": "example/agent-skill-one",
+      "url": "https://github.com/example/agent-skill-one",
+      "summary": "演示 Agent Skill 打包结构。",
+      "problem": "降低重复编写 Agent 指令和脚本的成本。",
+      "unique_value": "将说明、脚本与参考资料放在同一能力单元中。",
+      "why_valuable": "便于验证日报字段和评分结构。",
+      "for_you": "可用于理解 Skill 的产品边界。",
+      "possible_action": "阅读目录结构并写出目标用户。",
+      "star_reason_hypotheses": ["仅为测试数据，不对真实 Star 原因作判断"],
+      "risks": ["示例仓库并不存在"],
+      "scores": {
+        "personal_relevance": 8,
+        "problem_value": 7,
+        "practicality": 7,
+        "uniqueness": 6,
+        "maturity": 5,
+        "learning_value": 8,
+        "portfolio_value": 7,
+        "evidence_confidence": 2
+      },
+      "overall_score": 69.5,
+      "confidence": "低：这是测试夹具"
+    },
+    {
+      "repo": "example/agent-workflow-two",
+      "url": "https://github.com/example/agent-workflow-two",
+      "summary": "演示 Agent 工作流。",
+      "problem": "让多步骤任务具有可观察的执行顺序。",
+      "unique_value": "将工具调用和人工确认组合成固定流程。",
+      "why_valuable": "适合学习 Workflow 与 Agent 的区别。",
+      "for_you": "可转化成工作流产品分析。",
+      "possible_action": "画出状态和失败恢复流程。",
+      "star_reason_hypotheses": ["仅为测试数据"],
+      "risks": ["示例仓库并不存在"],
+      "scores": {
+        "personal_relevance": 8,
+        "problem_value": 7,
+        "practicality": 6,
+        "uniqueness": 6,
+        "maturity": 5,
+        "learning_value": 8,
+        "portfolio_value": 8,
+        "evidence_confidence": 2
+      },
+      "overall_score": 69.0,
+      "confidence": "低：这是测试夹具"
+    },
+    {
+      "repo": "example/awesome-agent-three",
+      "url": "https://github.com/example/awesome-agent-three",
+      "summary": "演示 Agent 聚合仓库。",
+      "problem": "减少寻找相关项目的时间。",
+      "unique_value": "按使用场景整理项目。",
+      "why_valuable": "可以作为候选发现源，而非质量证明。",
+      "for_you": "可扩展日报候选池。",
+      "possible_action": "检查分类标准和维护频率。",
+      "star_reason_hypotheses": ["聚合便利性可能带来关注，但测试数据无法验证"],
+      "risks": ["收录不代表项目质量"],
+      "scores": {
+        "personal_relevance": 7,
+        "problem_value": 6,
+        "practicality": 8,
+        "uniqueness": 5,
+        "maturity": 6,
+        "learning_value": 6,
+        "portfolio_value": 5,
+        "evidence_confidence": 2
+      },
+      "overall_score": 63.5,
+      "confidence": "低：这是测试夹具"
+    }
+  ],
+  "spotlight": "测试重点：区分 Agent、Skill、工具和工作流，并验证日报能否支持一次产品判断。",
+  "reflection_question": "如果一个 Agent 项目拥有大量 Star，但缺少许可证和可运行示例，你会如何判断是否推荐？"
+}
+

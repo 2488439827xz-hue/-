@@ -1,0 +1,81 @@
+{
+  "timezone": "Asia/Shanghai",
+  "delivery_time": "07:40",
+  "min_daily_projects": 3,
+  "max_daily_projects": 5,
+  "candidate_limit": 24,
+  "readme_limit": 18,
+  "history_retention_days": 90,
+  "ai_candidate_limit": 12,
+  "openai_model": "gpt-5.6-terra",
+  "openai_reasoning_effort": "medium",
+  "searches": [
+    {
+      "name": "agent-skills",
+      "query": "\"agent skills\" in:name,description archived:false stars:>=5",
+      "sort": "updated"
+    },
+    {
+      "name": "agent-skills-name",
+      "query": "agent-skills in:name archived:false stars:>=5",
+      "sort": "stars"
+    },
+    {
+      "name": "agent-skills-topic",
+      "query": "topic:agent-skills archived:false",
+      "sort": "updated"
+    },
+    {
+      "name": "agent-frameworks",
+      "query": "topic:ai-agent archived:false stars:>=20",
+      "sort": "updated"
+    },
+    {
+      "name": "agent-workflows",
+      "query": "agentic workflow in:name,description archived:false stars:>=10",
+      "sort": "updated"
+    },
+    {
+      "name": "agent-orchestration",
+      "query": "agent orchestration in:name,description archived:false stars:>=10",
+      "sort": "updated"
+    },
+    {
+      "name": "aggregations",
+      "query": "awesome agent in:name,description archived:false stars:>=50",
+      "sort": "updated"
+    }
+  ],
+  "category_keywords": {
+    "agent_skill": [
+      "agent skill",
+      "agent skills",
+      "agent-skills",
+      "skill.md",
+      "skills marketplace",
+      "skills registry"
+    ],
+    "agent": [
+      "ai agent",
+      "agentic",
+      "multi-agent",
+      "autonomous agent",
+      "agent framework"
+    ],
+    "workflow": [
+      "workflow",
+      "orchestration",
+      "orchestrator",
+      "automation",
+      "pipeline",
+      "mcp"
+    ],
+    "supporting": [
+      "retrieval augmented",
+      "rag",
+      "prompt engineering",
+      "evaluation",
+      "observability"
+    ]
+  }
+}
