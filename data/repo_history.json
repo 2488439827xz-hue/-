@@ -1,19 +1,19 @@
 {
   "repositories": {
     "sickn33/agentic-awesome-skills": {
-      "stars": 45313,
-      "forks": 6634,
-      "captured_at": "2026-08-23T23:51:39.586001+00:00"
+      "stars": 45344,
+      "forks": 6642,
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "linny006/awesome-agent-skills": {
-      "stars": 25,
+      "stars": 26,
       "forks": 5,
-      "captured_at": "2026-08-23T23:51:39.586001+00:00"
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "linny006/skills-tracker": {
       "stars": 20,
       "forks": 7,
-      "captured_at": "2026-08-23T23:51:39.586001+00:00"
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "NVIDIA/SkillSpector": {
       "stars": 14855,
@@ -33,7 +33,7 @@
     "linny006/claude-code-plugin-tracker": {
       "stars": 5,
       "forks": 2,
-      "captured_at": "2026-08-23T23:51:39.586001+00:00"
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "slowdini/slow-powers": {
       "stars": 2,
@@ -61,24 +61,24 @@
       "captured_at": "2026-08-12T00:09:39.687622+00:00"
     },
     "dbt-labs/dbt-agent-skills": {
-      "stars": 681,
+      "stars": 685,
       "forks": 61,
-      "captured_at": "2026-08-23T23:51:39.586001+00:00"
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "MoizIbnYousaf/Ai-Agent-Skills": {
       "stars": 1129,
       "forks": 132,
-      "captured_at": "2026-08-23T23:51:39.586001+00:00"
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "heilcheng/awesome-agent-skills": {
-      "stars": 6121,
-      "forks": 635,
-      "captured_at": "2026-08-20T23:54:18.529572+00:00"
+      "stars": 6137,
+      "forks": 640,
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "VoltAgent/awesome-agent-skills": {
-      "stars": 30627,
-      "forks": 3303,
-      "captured_at": "2026-08-20T23:54:18.529572+00:00"
+      "stars": 31854,
+      "forks": 3395,
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "jaccen/Awesome-Gaussian-Skills": {
       "stars": 136,
@@ -96,9 +96,9 @@
       "captured_at": "2026-08-08T03:09:05.016854+00:00"
     },
     "K-Dense-AI/scientific-agent-skills": {
-      "stars": 33921,
-      "forks": 3307,
-      "captured_at": "2026-08-19T23:52:48.154656+00:00"
+      "stars": 34288,
+      "forks": 3324,
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "larksuite/cli": {
       "stars": 16257,
@@ -138,7 +138,7 @@
     "jscraik/Agent-Skills": {
       "stars": 8,
       "forks": 4,
-      "captured_at": "2026-08-23T23:51:39.586001+00:00"
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "trapstreet/trapstreet-skills": {
       "stars": 5,
@@ -151,9 +151,9 @@
       "captured_at": "2026-08-13T00:10:39.940455+00:00"
     },
     "ssheleg/task-pipeline": {
-      "stars": 2,
+      "stars": 3,
       "forks": 1,
-      "captured_at": "2026-08-08T23:58:05.579296+00:00"
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "appautomaton/appautomaton.github.io": {
       "stars": 1,
@@ -188,7 +188,7 @@
     "saturrrrrrr/hugin-v0-omnibus": {
       "stars": 0,
       "forks": 0,
-      "captured_at": "2026-08-23T23:51:39.586001+00:00"
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "KKKKhazix/khazix-skills": {
       "stars": 19381,
@@ -217,8 +217,8 @@
     },
     "upex-galaxy/agentic-qa-boilerplate": {
       "stars": 19,
-      "forks": 11,
-      "captured_at": "2026-08-21T23:53:21.827742+00:00"
+      "forks": 12,
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "magnus919/agent-skills": {
       "stars": 47,
@@ -331,9 +331,9 @@
       "captured_at": "2026-08-20T23:54:18.529572+00:00"
     },
     "rubenmarcus/portfolio": {
-      "stars": 23,
+      "stars": 25,
       "forks": 4,
-      "captured_at": "2026-08-17T23:51:58.321560+00:00"
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "earthtojake/text-to-cad": {
       "stars": 13272,
@@ -476,9 +476,9 @@
       "captured_at": "2026-08-14T23:54:10.952000+00:00"
     },
     "apify/agent-skills": {
-      "stars": 2358,
+      "stars": 2359,
       "forks": 256,
-      "captured_at": "2026-08-23T23:51:39.586001+00:00"
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "simota/agent-skills": {
       "stars": 72,
@@ -486,14 +486,14 @@
       "captured_at": "2026-08-20T23:54:18.529572+00:00"
     },
     "mochow13/keen-code": {
-      "stars": 59,
+      "stars": 60,
       "forks": 9,
-      "captured_at": "2026-08-16T23:50:21.395610+00:00"
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "eugenelim/agent-ready-repo": {
       "stars": 17,
-      "forks": 6,
-      "captured_at": "2026-08-16T23:50:21.395610+00:00"
+      "forks": 5,
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "uizze/uizze": {
       "stars": 6,
@@ -743,7 +743,7 @@
     "getaero-io/gtm-eng-skills": {
       "stars": 53,
       "forks": 12,
-      "captured_at": "2026-08-23T23:51:39.586001+00:00"
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "nikships/skills-registry": {
       "stars": 14,
@@ -779,6 +779,36 @@
       "stars": 663,
       "forks": 100,
       "captured_at": "2026-08-23T23:51:39.586001+00:00"
+    },
+    "liuboacean/mubu-integration": {
+      "stars": 12,
+      "forks": 0,
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
+    },
+    "pome-sh/digital-twins": {
+      "stars": 12,
+      "forks": 1,
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
+    },
+    "ssheleg/make-skill": {
+      "stars": 1,
+      "forks": 0,
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
+    },
+    "Vivswan/skills": {
+      "stars": 1,
+      "forks": 0,
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
+    },
+    "samber/cc-skills": {
+      "stars": 194,
+      "forks": 15,
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
+    },
+    "expo/skills": {
+      "stars": 2457,
+      "forks": 138,
+      "captured_at": "2026-08-24T23:52:25.444700+00:00"
     }
   }
 }
