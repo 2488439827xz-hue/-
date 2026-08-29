@@ -1,19 +1,19 @@
 {
   "repositories": {
     "sickn33/agentic-awesome-skills": {
-      "stars": 45566,
-      "forks": 6672,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
+      "stars": 45611,
+      "forks": 6676,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "linny006/awesome-agent-skills": {
       "stars": 27,
       "forks": 4,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "linny006/skills-tracker": {
       "stars": 20,
       "forks": 7,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "NVIDIA/SkillSpector": {
       "stars": 15056,
@@ -33,7 +33,7 @@
     "linny006/claude-code-plugin-tracker": {
       "stars": 5,
       "forks": 2,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "slowdini/slow-powers": {
       "stars": 2,
@@ -66,14 +66,14 @@
       "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "MoizIbnYousaf/Ai-Agent-Skills": {
-      "stars": 1133,
+      "stars": 1134,
       "forks": 131,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "heilcheng/awesome-agent-skills": {
-      "stars": 6148,
-      "forks": 649,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
+      "stars": 6151,
+      "forks": 651,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "VoltAgent/awesome-agent-skills": {
       "stars": 32731,
@@ -96,9 +96,9 @@
       "captured_at": "2026-08-28T07:03:19.203996+00:00"
     },
     "K-Dense-AI/scientific-agent-skills": {
-      "stars": 34288,
-      "forks": 3324,
-      "captured_at": "2026-08-24T23:52:25.444700+00:00"
+      "stars": 36804,
+      "forks": 3497,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "larksuite/cli": {
       "stars": 16817,
@@ -106,9 +106,9 @@
       "captured_at": "2026-08-28T07:03:19.203996+00:00"
     },
     "NeverSight/learn-skills.dev": {
-      "stars": 195,
-      "forks": 34,
-      "captured_at": "2026-08-08T03:09:05.016854+00:00"
+      "stars": 206,
+      "forks": 35,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "lu969181-boop/github-skill-dashboard": {
       "stars": 27,
@@ -336,9 +336,9 @@
       "captured_at": "2026-08-24T23:52:25.444700+00:00"
     },
     "earthtojake/text-to-cad": {
-      "stars": 13272,
-      "forks": 1398,
-      "captured_at": "2026-08-12T00:09:39.687622+00:00"
+      "stars": 13999,
+      "forks": 1487,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "supabase/agent-skills": {
       "stars": 2498,
@@ -441,9 +441,9 @@
       "captured_at": "2026-08-14T23:54:10.952000+00:00"
     },
     "synthesisengineering/synthesis-skills": {
-      "stars": 16,
+      "stars": 17,
       "forks": 2,
-      "captured_at": "2026-08-23T23:51:39.586001+00:00"
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "stbarbe/agent-skills-cli": {
       "stars": 12,
@@ -476,9 +476,9 @@
       "captured_at": "2026-08-14T23:54:10.952000+00:00"
     },
     "apify/agent-skills": {
-      "stars": 2361,
+      "stars": 2362,
       "forks": 256,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "simota/agent-skills": {
       "stars": 72,
@@ -893,7 +893,7 @@
     "VoDaiLocz/kilo-kit-mcp": {
       "stars": 24,
       "forks": 2,
-      "captured_at": "2026-08-27T04:58:42.679813+00:00"
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "Shilo/pixellab-pip": {
       "stars": 19,
@@ -943,7 +943,7 @@
     "BackTrackCo/tenjin-agent": {
       "stars": 7,
       "forks": 1,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "lukedj78/dev-flow": {
       "stars": 5,
@@ -979,6 +979,61 @@
       "stars": 602,
       "forks": 75,
       "captured_at": "2026-08-28T07:03:19.203996+00:00"
+    },
+    "conorbronsdon/agent-context-os": {
+      "stars": 15,
+      "forks": 2,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
+    },
+    "saidake/code-trace-tree-vscode": {
+      "stars": 11,
+      "forks": 0,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
+    },
+    "JAIPilot/jaipilot": {
+      "stars": 5,
+      "forks": 1,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
+    },
+    "Amey-Thakur/AI-SKILLS": {
+      "stars": 5,
+      "forks": 1,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
+    },
+    "smsheik1/wiggly": {
+      "stars": 1,
+      "forks": 1,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
+    },
+    "industrial-aiops/industrial-aiops": {
+      "stars": 1,
+      "forks": 0,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
+    },
+    "conn-castle/agent-outbox": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
+    },
+    "basecamp/skills": {
+      "stars": 68,
+      "forks": 7,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
+    },
+    "NocodeMrLi/mini-program-engineering-skill-suite": {
+      "stars": 22,
+      "forks": 2,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
+    },
+    "TidyFactor/TidyFactor": {
+      "stars": 9,
+      "forks": 2,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
+    },
+    "flurdy/agent-skills": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     }
   }
 }
