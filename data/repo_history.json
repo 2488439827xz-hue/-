@@ -1,19 +1,19 @@
 {
   "repositories": {
     "sickn33/agentic-awesome-skills": {
-      "stars": 46541,
-      "forks": 6783,
-      "captured_at": "2026-09-18T01:25:46.124035+00:00"
+      "stars": 46573,
+      "forks": 6789,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "linny006/awesome-agent-skills": {
       "stars": 35,
-      "forks": 5,
-      "captured_at": "2026-09-18T01:25:46.124035+00:00"
+      "forks": 4,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "linny006/skills-tracker": {
       "stars": 22,
       "forks": 7,
-      "captured_at": "2026-09-18T01:25:46.124035+00:00"
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "NVIDIA/SkillSpector": {
       "stars": 17209,
@@ -33,7 +33,7 @@
     "linny006/claude-code-plugin-tracker": {
       "stars": 5,
       "forks": 2,
-      "captured_at": "2026-09-18T01:25:46.124035+00:00"
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "slowdini/slow-powers": {
       "stars": 2,
@@ -71,9 +71,9 @@
       "captured_at": "2026-08-31T01:33:28.029244+00:00"
     },
     "heilcheng/awesome-agent-skills": {
-      "stars": 6209,
-      "forks": 697,
-      "captured_at": "2026-09-18T01:25:46.124035+00:00"
+      "stars": 6213,
+      "forks": 698,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "VoltAgent/awesome-agent-skills": {
       "stars": 34380,
@@ -91,9 +91,9 @@
       "captured_at": "2026-08-28T07:03:19.203996+00:00"
     },
     "CherryHQ/cherry-studio": {
-      "stars": 51174,
-      "forks": 4882,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
+      "stars": 51975,
+      "forks": 4980,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "K-Dense-AI/scientific-agent-skills": {
       "stars": 44758,
@@ -221,9 +221,9 @@
       "captured_at": "2026-09-18T01:25:46.124035+00:00"
     },
     "magnus919/agent-skills": {
-      "stars": 70,
-      "forks": 7,
-      "captured_at": "2026-09-06T01:17:50.958755+00:00"
+      "stars": 85,
+      "forks": 9,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "h4vzz/awesome-ai-agent-skills": {
       "stars": 34,
@@ -426,9 +426,9 @@
       "captured_at": "2026-08-14T23:54:10.952000+00:00"
     },
     "NVIDIA/skills": {
-      "stars": 3262,
-      "forks": 387,
-      "captured_at": "2026-09-12T01:29:20.782109+00:00"
+      "stars": 3350,
+      "forks": 401,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "shinpr/sub-agents-skills": {
       "stars": 81,
@@ -443,7 +443,7 @@
     "synthesisengineering/synthesis-skills": {
       "stars": 19,
       "forks": 2,
-      "captured_at": "2026-09-18T01:25:46.124035+00:00"
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "stbarbe/agent-skills-cli": {
       "stars": 12,
@@ -476,9 +476,9 @@
       "captured_at": "2026-08-14T23:54:10.952000+00:00"
     },
     "apify/agent-skills": {
-      "stars": 2384,
-      "forks": 256,
-      "captured_at": "2026-09-18T01:25:46.124035+00:00"
+      "stars": 2387,
+      "forks": 257,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "simota/agent-skills": {
       "stars": 78,
@@ -641,9 +641,9 @@
       "captured_at": "2026-08-19T23:52:48.154656+00:00"
     },
     "netresearch/agent-rules-skill": {
-      "stars": 73,
+      "stars": 76,
       "forks": 6,
-      "captured_at": "2026-08-19T23:52:48.154656+00:00"
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "OpenLinkSoftware/ai-agent-skills": {
       "stars": 38,
@@ -878,7 +878,7 @@
     "agentskillexchange/skills": {
       "stars": 40,
       "forks": 53,
-      "captured_at": "2026-09-17T01:39:25.191522+00:00"
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "jeremylongshore/tons-of-skills-marketplace": {
       "stars": 2771,
@@ -1188,7 +1188,7 @@
     "MoizIbnYousaf/ai-agent-skills": {
       "stars": 1143,
       "forks": 133,
-      "captured_at": "2026-09-18T01:25:46.124035+00:00"
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "mvanhorn/last30days-skill": {
       "stars": 62160,
@@ -1281,9 +1281,9 @@
       "captured_at": "2026-09-11T01:24:34.376409+00:00"
     },
     "initializ/forge": {
-      "stars": 227,
-      "forks": 13,
-      "captured_at": "2026-09-18T01:25:46.124035+00:00"
+      "stars": 218,
+      "forks": 14,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "teamtinvio/jaz-ai": {
       "stars": 7,
@@ -1531,9 +1531,9 @@
       "captured_at": "2026-09-11T01:24:34.376409+00:00"
     },
     "afonsoft/skills": {
-      "stars": 2,
-      "forks": 2,
-      "captured_at": "2026-09-11T01:24:34.376409+00:00"
+      "stars": 6,
+      "forks": 3,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "yeyuan98/bioresearcher-skills": {
       "stars": 1,
@@ -1751,9 +1751,9 @@
       "captured_at": "2026-09-17T01:39:25.191522+00:00"
     },
     "oxylabs/agent-skills": {
-      "stars": 875,
+      "stars": 871,
       "forks": 2,
-      "captured_at": "2026-09-17T01:39:25.191522+00:00"
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "pascalorg/editor": {
       "stars": 24017,
@@ -1788,7 +1788,42 @@
     "soloveliness-a11y/legal-risk-workflow": {
       "stars": 0,
       "forks": 0,
-      "captured_at": "2026-09-18T01:25:46.124035+00:00"
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
+    },
+    "BlackBeltTechnology/pi-agent-dashboard": {
+      "stars": 292,
+      "forks": 44,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
+    },
+    "using-system/oddyssey": {
+      "stars": 9,
+      "forks": 2,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
+    },
+    "agentii-ai/agentii-investment-intelligence": {
+      "stars": 203,
+      "forks": 16,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
+    },
+    "bjcoombs/ai-native-toolkit": {
+      "stars": 30,
+      "forks": 5,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
+    },
+    "usetemi/skills": {
+      "stars": 6,
+      "forks": 1,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
+    },
+    "Dicklesworthstone/skillranker": {
+      "stars": 48,
+      "forks": 4,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
+    },
+    "netresearch/typo3-docs-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-09-19T01:30:42.131002+00:00"
     }
   }
 }
