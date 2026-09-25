@@ -1,19 +1,19 @@
 {
   "repositories": {
     "sickn33/agentic-awesome-skills": {
-      "stars": 46798,
-      "forks": 6814,
-      "captured_at": "2026-09-23T01:43:21.322937+00:00"
+      "stars": 46878,
+      "forks": 6831,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "linny006/awesome-agent-skills": {
-      "stars": 36,
+      "stars": 37,
       "forks": 4,
-      "captured_at": "2026-09-23T01:43:21.322937+00:00"
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "linny006/skills-tracker": {
       "stars": 22,
-      "forks": 7,
-      "captured_at": "2026-09-23T01:43:21.322937+00:00"
+      "forks": 6,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "NVIDIA/SkillSpector": {
       "stars": 17209,
@@ -21,9 +21,9 @@
       "captured_at": "2026-09-15T01:51:53.248824+00:00"
     },
     "zhuyansen/agent-skills-hub": {
-      "stars": 384,
-      "forks": 43,
-      "captured_at": "2026-09-23T01:43:21.322937+00:00"
+      "stars": 393,
+      "forks": 44,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "smith-horn/skillsmith": {
       "stars": 78,
@@ -31,9 +31,9 @@
       "captured_at": "2026-09-15T01:51:53.248824+00:00"
     },
     "linny006/claude-code-plugin-tracker": {
-      "stars": 5,
+      "stars": 6,
       "forks": 2,
-      "captured_at": "2026-09-22T01:47:55.609033+00:00"
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "slowdini/slow-powers": {
       "stars": 2,
@@ -478,7 +478,7 @@
     "apify/agent-skills": {
       "stars": 2398,
       "forks": 257,
-      "captured_at": "2026-09-23T01:43:21.322937+00:00"
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "simota/agent-skills": {
       "stars": 78,
@@ -776,9 +776,9 @@
       "captured_at": "2026-08-23T23:51:39.586001+00:00"
     },
     "GarethManning/education-agent-skills": {
-      "stars": 794,
-      "forks": 109,
-      "captured_at": "2026-09-23T01:43:21.322937+00:00"
+      "stars": 801,
+      "forks": 111,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "liuboacean/mubu-integration": {
       "stars": 12,
@@ -877,13 +877,13 @@
     },
     "agentskillexchange/skills": {
       "stars": 42,
-      "forks": 53,
-      "captured_at": "2026-09-23T01:43:21.322937+00:00"
+      "forks": 56,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "jeremylongshore/tons-of-skills-marketplace": {
-      "stars": 2785,
-      "forks": 403,
-      "captured_at": "2026-09-23T01:43:21.322937+00:00"
+      "stars": 2787,
+      "forks": 404,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "initlabsai/vibekit": {
       "stars": 27,
@@ -1187,8 +1187,8 @@
     },
     "MoizIbnYousaf/ai-agent-skills": {
       "stars": 1144,
-      "forks": 134,
-      "captured_at": "2026-09-23T01:43:21.322937+00:00"
+      "forks": 135,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "mvanhorn/last30days-skill": {
       "stars": 62160,
@@ -1281,9 +1281,9 @@
       "captured_at": "2026-09-11T01:24:34.376409+00:00"
     },
     "initializ/forge": {
-      "stars": 218,
-      "forks": 14,
-      "captured_at": "2026-09-19T01:30:42.131002+00:00"
+      "stars": 221,
+      "forks": 13,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "teamtinvio/jaz-ai": {
       "stars": 7,
@@ -1526,9 +1526,9 @@
       "captured_at": "2026-09-11T01:24:34.376409+00:00"
     },
     "hraness/ghostget": {
-      "stars": 5,
+      "stars": 6,
       "forks": 1,
-      "captured_at": "2026-09-11T01:24:34.376409+00:00"
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "afonsoft/skills": {
       "stars": 6,
@@ -1868,7 +1868,7 @@
     "3dgiordano/agent-plugins": {
       "stars": 0,
       "forks": 0,
-      "captured_at": "2026-09-20T01:33:00.942873+00:00"
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "bs779517/story-skills": {
       "stars": 8,
@@ -1881,9 +1881,9 @@
       "captured_at": "2026-09-21T01:33:22.222939+00:00"
     },
     "socai-io/jev-social": {
-      "stars": 25,
-      "forks": 5,
-      "captured_at": "2026-09-21T01:33:22.222939+00:00"
+      "stars": 74,
+      "forks": 10,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     },
     "24601/Augustus": {
       "stars": 6,
@@ -1979,6 +1979,56 @@
       "stars": 8,
       "forks": 1,
       "captured_at": "2026-09-23T01:43:21.322937+00:00"
+    },
+    "JakeSelby/agent-harness": {
+      "stars": 17,
+      "forks": 1,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
+    },
+    "axisrobo/ea-harness": {
+      "stars": 12,
+      "forks": 13,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
+    },
+    "nguyenvanphituoc/shapeup-sdlc-plugin": {
+      "stars": 3,
+      "forks": 0,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
+    },
+    "vocsong/VocsCode": {
+      "stars": 2,
+      "forks": 1,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
+    },
+    "sirkirby/routr": {
+      "stars": 1,
+      "forks": 0,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
+    },
+    "Shelra/ShelraCode": {
+      "stars": 1,
+      "forks": 0,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
+    },
+    "forgeprint/forgeprint": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
+    },
+    "richawo/yaps-plugins": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
+    },
+    "houdaguang/actn-agent-network": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
+    },
+    "connortessaro/pai": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-09-25T01:51:01.833055+00:00"
     }
   }
 }
