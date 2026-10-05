@@ -1,19 +1,19 @@
 {
   "repositories": {
     "sickn33/agentic-awesome-skills": {
-      "stars": 47228,
-      "forks": 6875,
-      "captured_at": "2026-10-04T02:50:23.553450+00:00"
+      "stars": 47254,
+      "forks": 6883,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "linny006/awesome-agent-skills": {
       "stars": 38,
       "forks": 3,
-      "captured_at": "2026-10-04T02:50:23.553450+00:00"
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "linny006/skills-tracker": {
       "stars": 23,
       "forks": 6,
-      "captured_at": "2026-10-04T02:50:23.553450+00:00"
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "NVIDIA/SkillSpector": {
       "stars": 17209,
@@ -21,9 +21,9 @@
       "captured_at": "2026-09-15T01:51:53.248824+00:00"
     },
     "zhuyansen/agent-skills-hub": {
-      "stars": 395,
-      "forks": 45,
-      "captured_at": "2026-09-27T01:43:38.929290+00:00"
+      "stars": 404,
+      "forks": 44,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "smith-horn/skillsmith": {
       "stars": 77,
@@ -33,7 +33,7 @@
     "linny006/claude-code-plugin-tracker": {
       "stars": 6,
       "forks": 2,
-      "captured_at": "2026-10-04T02:50:23.553450+00:00"
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "slowdini/slow-powers": {
       "stars": 2,
@@ -476,9 +476,9 @@
       "captured_at": "2026-08-14T23:54:10.952000+00:00"
     },
     "apify/agent-skills": {
-      "stars": 2403,
+      "stars": 2404,
       "forks": 260,
-      "captured_at": "2026-10-04T02:50:23.553450+00:00"
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "simota/agent-skills": {
       "stars": 78,
@@ -798,7 +798,7 @@
     "Vivswan/skills": {
       "stars": 1,
       "forks": 0,
-      "captured_at": "2026-08-24T23:52:25.444700+00:00"
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "samber/cc-skills": {
       "stars": 194,
@@ -876,14 +876,14 @@
       "captured_at": "2026-08-27T04:58:42.679813+00:00"
     },
     "agentskillexchange/skills": {
-      "stars": 48,
-      "forks": 69,
-      "captured_at": "2026-10-04T02:50:23.553450+00:00"
+      "stars": 49,
+      "forks": 68,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "jeremylongshore/tons-of-skills-marketplace": {
-      "stars": 2805,
-      "forks": 411,
-      "captured_at": "2026-10-04T02:50:23.553450+00:00"
+      "stars": 2810,
+      "forks": 413,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "initlabsai/vibekit": {
       "stars": 27,
@@ -921,9 +921,9 @@
       "captured_at": "2026-08-27T04:58:42.679813+00:00"
     },
     "ryanduguid/australian-accounting-skills": {
-      "stars": 1,
+      "stars": 3,
       "forks": 1,
-      "captured_at": "2026-09-13T01:22:26.685746+00:00"
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "sycdan/nosedive": {
       "stars": 0,
@@ -1186,9 +1186,9 @@
       "captured_at": "2026-09-01T02:01:12.240771+00:00"
     },
     "MoizIbnYousaf/ai-agent-skills": {
-      "stars": 1146,
+      "stars": 1148,
       "forks": 134,
-      "captured_at": "2026-10-04T02:50:23.553450+00:00"
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "mvanhorn/last30days-skill": {
       "stars": 62160,
@@ -1526,9 +1526,9 @@
       "captured_at": "2026-09-11T01:24:34.376409+00:00"
     },
     "hraness/ghostget": {
-      "stars": 6,
-      "forks": 1,
-      "captured_at": "2026-09-25T01:51:01.833055+00:00"
+      "stars": 7,
+      "forks": 2,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "afonsoft/skills": {
       "stars": 6,
@@ -2121,9 +2121,9 @@
       "captured_at": "2026-09-28T01:56:54.705816+00:00"
     },
     "ClawCall-Dev/ClawCall": {
-      "stars": 7,
+      "stars": 8,
       "forks": 1,
-      "captured_at": "2026-09-28T01:56:54.705816+00:00"
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "alex-brecher/shopify-multi-store": {
       "stars": 5,
@@ -2241,9 +2241,9 @@
       "captured_at": "2026-10-03T02:16:48.781227+00:00"
     },
     "Calix-L/awesome-latex-skills": {
-      "stars": 177,
+      "stars": 178,
       "forks": 4,
-      "captured_at": "2026-10-04T02:50:23.553450+00:00"
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "dcc-mcp/dcc-mcp-core": {
       "stars": 48,
@@ -2251,9 +2251,9 @@
       "captured_at": "2026-10-04T02:50:23.553450+00:00"
     },
     "Gentleman-Programming/gentle-shell": {
-      "stars": 1191,
-      "forks": 173,
-      "captured_at": "2026-10-04T02:50:23.553450+00:00"
+      "stars": 1196,
+      "forks": 174,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     },
     "heymegabyte/claude-skills": {
       "stars": 22,
@@ -2289,6 +2289,51 @@
       "stars": 25,
       "forks": 1,
       "captured_at": "2026-10-04T02:50:23.553450+00:00"
+    },
+    "harness/harness-skills": {
+      "stars": 114,
+      "forks": 22,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
+    },
+    "heymegabyte/agent-skills": {
+      "stars": 22,
+      "forks": 4,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
+    },
+    "reticlehq/reticle": {
+      "stars": 1160,
+      "forks": 174,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
+    },
+    "OyadotAI/oya-browser": {
+      "stars": 350,
+      "forks": 277,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
+    },
+    "alisonjieli-png/loop-engine": {
+      "stars": 2,
+      "forks": 0,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
+    },
+    "zh-xx/Antu": {
+      "stars": 2,
+      "forks": 0,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
+    },
+    "EtanHey/golems": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
+    },
+    "Fixed-Seed/game-changer": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
+    },
+    "datasound-projects/Promptboard": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-10-05T02:20:15.909002+00:00"
     }
   }
 }
