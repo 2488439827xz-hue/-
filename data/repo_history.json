@@ -1,19 +1,19 @@
 {
   "repositories": {
     "sickn33/agentic-awesome-skills": {
-      "stars": 47889,
-      "forks": 6993,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "stars": 47966,
+      "forks": 7006,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "linny006/awesome-agent-skills": {
       "stars": 40,
       "forks": 4,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "linny006/skills-tracker": {
       "stars": 25,
       "forks": 6,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "NVIDIA/SkillSpector": {
       "stars": 17209,
@@ -33,7 +33,7 @@
     "linny006/claude-code-plugin-tracker": {
       "stars": 6,
       "forks": 1,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "slowdini/slow-powers": {
       "stars": 2,
@@ -71,9 +71,9 @@
       "captured_at": "2026-08-31T01:33:28.029244+00:00"
     },
     "heilcheng/awesome-agent-skills": {
-      "stars": 6288,
-      "forks": 783,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "stars": 6292,
+      "forks": 791,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "VoltAgent/awesome-agent-skills": {
       "stars": 35659,
@@ -476,9 +476,9 @@
       "captured_at": "2026-08-14T23:54:10.952000+00:00"
     },
     "apify/agent-skills": {
-      "stars": 2442,
-      "forks": 289,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "stars": 2447,
+      "forks": 298,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "simota/agent-skills": {
       "stars": 78,
@@ -776,9 +776,9 @@
       "captured_at": "2026-08-23T23:51:39.586001+00:00"
     },
     "GarethManning/education-agent-skills": {
-      "stars": 877,
+      "stars": 881,
       "forks": 122,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "liuboacean/mubu-integration": {
       "stars": 12,
@@ -876,9 +876,9 @@
       "captured_at": "2026-08-27T04:58:42.679813+00:00"
     },
     "agentskillexchange/skills": {
-      "stars": 53,
-      "forks": 86,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "stars": 54,
+      "forks": 87,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "jeremylongshore/tons-of-skills-marketplace": {
       "stars": 2821,
@@ -1186,9 +1186,9 @@
       "captured_at": "2026-09-01T02:01:12.240771+00:00"
     },
     "MoizIbnYousaf/ai-agent-skills": {
-      "stars": 1152,
-      "forks": 148,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "stars": 1151,
+      "forks": 149,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "mvanhorn/last30days-skill": {
       "stars": 62160,
@@ -1338,7 +1338,7 @@
     "trevhud/rote": {
       "stars": 8,
       "forks": 0,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "haorantang97/LabKit": {
       "stars": 4,
@@ -1476,9 +1476,9 @@
       "captured_at": "2026-09-10T01:24:12.137702+00:00"
     },
     "Cotal-AI/Cotal": {
-      "stars": 307,
-      "forks": 37,
-      "captured_at": "2026-10-03T02:16:48.781227+00:00"
+      "stars": 331,
+      "forks": 42,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "inkeep/open-knowledge-skills": {
       "stars": 8,
@@ -2366,14 +2366,14 @@
       "captured_at": "2026-10-08T02:52:14.601357+00:00"
     },
     "morluto/rea": {
-      "stars": 308099,
-      "forks": 77960,
-      "captured_at": "2026-10-18T01:28:35.403168+00:00"
+      "stars": 337412,
+      "forks": 85197,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "mvschwarz/openrig": {
-      "stars": 7804,
-      "forks": 621,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "stars": 7909,
+      "forks": 630,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "vinta/hal-9000": {
       "stars": 138,
@@ -2396,9 +2396,9 @@
       "captured_at": "2026-10-11T02:08:04.327503+00:00"
     },
     "creedants/pstack-t3": {
-      "stars": 14,
+      "stars": 15,
       "forks": 4,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "WJSGZZ/praxis": {
       "stars": 1,
@@ -2478,7 +2478,7 @@
     "jmagly/aiwg": {
       "stars": 224,
       "forks": 34,
-      "captured_at": "2026-10-18T01:28:35.403168+00:00"
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     },
     "legioncodeinc/vibe-coding-tools": {
       "stars": 87,
@@ -2659,6 +2659,51 @@
       "stars": 166,
       "forks": 14,
       "captured_at": "2026-10-19T01:36:01.284333+00:00"
+    },
+    "ai4s-research/open-science": {
+      "stars": 1920,
+      "forks": 221,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
+    },
+    "index-login/MobileRE-Skill": {
+      "stars": 200,
+      "forks": 47,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
+    },
+    "naman10parikh/agentgrid": {
+      "stars": 9,
+      "forks": 1,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
+    },
+    "Huanyu-Hibiki/Huanyu-Skills": {
+      "stars": 2,
+      "forks": 0,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
+    },
+    "user-github-me/soniccraft": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
+    },
+    "iadr-dev/greenlight": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
+    },
+    "ApparelHub-AI/apparelhub-skills": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
+    },
+    "kenxle/feature-forge": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
+    },
+    "naman10parikh/agent-booster": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-10-20T02:01:54.606376+00:00"
     }
   }
 }
