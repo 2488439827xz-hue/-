@@ -1,9 +1,9 @@
 {
   "repositories": {
     "sickn33/agentic-awesome-skills": {
-      "stars": 48995,
-      "forks": 7111,
-      "captured_at": "2026-11-02T02:42:49.001172+00:00"
+      "stars": 49056,
+      "forks": 7120,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
     },
     "linny006/awesome-agent-skills": {
       "stars": 45,
@@ -71,9 +71,9 @@
       "captured_at": "2026-08-31T01:33:28.029244+00:00"
     },
     "heilcheng/awesome-agent-skills": {
-      "stars": 6332,
-      "forks": 815,
-      "captured_at": "2026-11-02T02:42:49.001172+00:00"
+      "stars": 6337,
+      "forks": 816,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
     },
     "VoltAgent/awesome-agent-skills": {
       "stars": 36642,
@@ -1476,9 +1476,9 @@
       "captured_at": "2026-09-10T01:24:12.137702+00:00"
     },
     "Cotal-AI/Cotal": {
-      "stars": 369,
-      "forks": 44,
-      "captured_at": "2026-10-30T02:52:46.228646+00:00"
+      "stars": 380,
+      "forks": 45,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
     },
     "inkeep/open-knowledge-skills": {
       "stars": 8,
@@ -2436,9 +2436,9 @@
       "captured_at": "2026-10-12T02:37:17.675823+00:00"
     },
     "oyi77/1ai-skills": {
-      "stars": 14,
-      "forks": 1,
-      "captured_at": "2026-10-12T02:37:17.675823+00:00"
+      "stars": 17,
+      "forks": 2,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
     },
     "noahowsh/strikerapi-mcp": {
       "stars": 0,
@@ -2486,9 +2486,9 @@
       "captured_at": "2026-10-13T03:47:34.207790+00:00"
     },
     "paperclipai/paperclip": {
-      "stars": 109489,
-      "forks": 18133,
-      "captured_at": "2026-11-01T02:31:11.028147+00:00"
+      "stars": 110497,
+      "forks": 18289,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
     },
     "lsaint/aikito": {
       "stars": 134,
@@ -2616,9 +2616,9 @@
       "captured_at": "2026-10-18T01:28:35.403168+00:00"
     },
     "axisrow/tg_content_factory": {
-      "stars": 35,
-      "forks": 7,
-      "captured_at": "2026-10-18T01:28:35.403168+00:00"
+      "stars": 37,
+      "forks": 8,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
     },
     "zenstory-ai/oh-story-claudecode": {
       "stars": 8130,
@@ -3089,6 +3089,96 @@
       "stars": 169,
       "forks": 213,
       "captured_at": "2026-11-02T02:42:49.001172+00:00"
+    },
+    "danielvm-git/bigpowers": {
+      "stars": 288,
+      "forks": 24,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "aAAaqwq/AGI-Super-Team": {
+      "stars": 112,
+      "forks": 26,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "ZiChenWang114514/chemdraw-skill": {
+      "stars": 39,
+      "forks": 3,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "alphaparkinc/genpark-personal-agent-ocular-accommodative-microfluctuations-amf-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "Alpha-Park/genpark-personal-agent-acoustic-frequency-following-response-ffr-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "alphaparkinc/genpark-personal-agent-acoustic-frequency-following-response-ffr-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "Alpha-Park/genpark-personal-agent-respiratory-mouth-occlusion-p01-drive-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "alphaparkinc/genpark-personal-agent-respiratory-mouth-occlusion-p01-drive-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "Alpha-Park/genpark-personal-agent-oculomotor-vergence-peak-velocity-dynamics-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "alphaparkinc/genpark-personal-agent-oculomotor-vergence-peak-velocity-dynamics-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "Alpha-Park/genpark-personal-agent-cutaneous-microvascular-post-occlusive-reactive-hyperemia-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "alphaparkinc/genpark-personal-agent-cutaneous-microvascular-post-occlusive-reactive-hyperemia-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "Alpha-Park/genpark-personal-agent-cardiac-ventricular-late-potentials-saecg-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "alphaparkinc/genpark-personal-agent-cardiac-ventricular-late-potentials-saecg-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "Alpha-Park/genpark-personal-agent-cerebral-vasomotor-hyperventilation-reactivity-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "alphaparkinc/genpark-personal-agent-cerebral-vasomotor-hyperventilation-reactivity-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "Alpha-Park/genpark-personal-agent-somatosensory-f-wave-chronodispersion-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
+    },
+    "alphaparkinc/genpark-personal-agent-somatosensory-f-wave-chronodispersion-skill": {
+      "stars": 7,
+      "forks": 0,
+      "captured_at": "2026-11-03T03:59:51.396401+00:00"
     }
   }
 }
