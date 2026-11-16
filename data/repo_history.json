@@ -1,9 +1,9 @@
 {
   "repositories": {
     "sickn33/agentic-awesome-skills": {
-      "stars": 49714,
-      "forks": 7192,
-      "captured_at": "2026-11-15T03:00:29.806903+00:00"
+      "stars": 49773,
+      "forks": 7199,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "linny006/awesome-agent-skills": {
       "stars": 45,
@@ -51,19 +51,19 @@
       "captured_at": "2026-08-31T01:33:28.029244+00:00"
     },
     "heilcheng/awesome-agent-skills": {
-      "stars": 6389,
-      "forks": 849,
-      "captured_at": "2026-11-15T03:00:29.806903+00:00"
+      "stars": 6393,
+      "forks": 850,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "VoltAgent/awesome-agent-skills": {
-      "stars": 36642,
-      "forks": 4024,
-      "captured_at": "2026-10-31T02:41:08.939644+00:00"
+      "stars": 37219,
+      "forks": 4137,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "jaccen/Awesome-Gaussian-Skills": {
-      "stars": 184,
+      "stars": 186,
       "forks": 13,
-      "captured_at": "2026-11-15T03:00:29.806903+00:00"
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "CALLE-AI/awesome-phone-call-agents": {
       "stars": 107,
@@ -278,7 +278,7 @@
     "apify/agent-skills": {
       "stars": 2500,
       "forks": 281,
-      "captured_at": "2026-11-15T03:00:29.806903+00:00"
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "simota/agent-skills": {
       "stars": 99,
@@ -294,11 +294,6 @@
       "stars": 28,
       "forks": 7,
       "captured_at": "2026-11-08T02:40:00.574799+00:00"
-    },
-    "uizze/uizze": {
-      "stars": 6,
-      "forks": 1,
-      "captured_at": "2026-08-17T23:51:58.321560+00:00"
     },
     "llodev/skills": {
       "stars": 2,
@@ -319,31 +314,6 @@
       "stars": 2654,
       "forks": 390,
       "captured_at": "2026-08-19T23:52:48.154656+00:00"
-    },
-    "serradura/okf-gem": {
-      "stars": 124,
-      "forks": 11,
-      "captured_at": "2026-08-17T23:51:58.321560+00:00"
-    },
-    "evilstar2016/skill-doctor": {
-      "stars": 6,
-      "forks": 0,
-      "captured_at": "2026-08-17T23:51:58.321560+00:00"
-    },
-    "TheVeller/claude-skills": {
-      "stars": 2,
-      "forks": 0,
-      "captured_at": "2026-08-17T23:51:58.321560+00:00"
-    },
-    "cofoundy/basalt-plugin": {
-      "stars": 1,
-      "forks": 0,
-      "captured_at": "2026-08-17T23:51:58.321560+00:00"
-    },
-    "yansfil/sasu": {
-      "stars": 1,
-      "forks": 0,
-      "captured_at": "2026-08-17T23:51:58.321560+00:00"
     },
     "Veridise/audithub-skills": {
       "stars": 23,
@@ -461,9 +431,9 @@
       "captured_at": "2026-08-20T23:54:18.529572+00:00"
     },
     "NVIDIA/SkillEvaluator": {
-      "stars": 1131,
-      "forks": 133,
-      "captured_at": "2026-11-14T03:30:27.000845+00:00"
+      "stars": 1783,
+      "forks": 236,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "markoblogo/abvx-agent-skills": {
       "stars": 14,
@@ -561,9 +531,9 @@
       "captured_at": "2026-08-23T23:51:39.586001+00:00"
     },
     "GarethManning/education-agent-skills": {
-      "stars": 979,
-      "forks": 136,
-      "captured_at": "2026-11-14T03:30:27.000845+00:00"
+      "stars": 988,
+      "forks": 137,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "liuboacean/mubu-integration": {
       "stars": 12,
@@ -901,9 +871,9 @@
       "captured_at": "2026-09-22T01:47:55.609033+00:00"
     },
     "alibaba/skill-up": {
-      "stars": 1145,
-      "forks": 95,
-      "captured_at": "2026-10-08T02:52:14.601357+00:00"
+      "stars": 1475,
+      "forks": 132,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "kangarooking/kangarooking-skills": {
       "stars": 553,
@@ -971,14 +941,14 @@
       "captured_at": "2026-09-01T02:01:12.240771+00:00"
     },
     "MoizIbnYousaf/ai-agent-skills": {
-      "stars": 1156,
-      "forks": 137,
-      "captured_at": "2026-11-14T03:30:27.000845+00:00"
+      "stars": 1158,
+      "forks": 138,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "mvanhorn/last30days-skill": {
-      "stars": 67450,
-      "forks": 5929,
-      "captured_at": "2026-11-13T03:33:17.241960+00:00"
+      "stars": 67790,
+      "forks": 5974,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "saidake/code-trace-tree-jetbrains": {
       "stars": 52,
@@ -1506,9 +1476,9 @@
       "captured_at": "2026-09-16T01:36:26.268782+00:00"
     },
     "genspark-ai/genoffice": {
-      "stars": 12186,
-      "forks": 1695,
-      "captured_at": "2026-11-12T04:06:25.099506+00:00"
+      "stars": 12405,
+      "forks": 1728,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "youdotcom-oss/agent-skills": {
       "stars": 71,
@@ -1928,7 +1898,7 @@
     "broomva/skills": {
       "stars": 5,
       "forks": 1,
-      "captured_at": "2026-11-10T04:46:13.968065+00:00"
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "ganesh1si22cs060/FYRwall": {
       "stars": 0,
@@ -2066,9 +2036,9 @@
       "captured_at": "2026-10-04T02:50:23.553450+00:00"
     },
     "QingYunA/answer-me-with-html": {
-      "stars": 4111,
-      "forks": 275,
-      "captured_at": "2026-10-21T01:57:29.678076+00:00"
+      "stars": 6343,
+      "forks": 426,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "Renly1994/Skillbox": {
       "stars": 25,
@@ -2156,9 +2126,9 @@
       "captured_at": "2026-10-27T02:22:28.244655+00:00"
     },
     "mvschwarz/openrig": {
-      "stars": 8851,
-      "forks": 755,
-      "captured_at": "2026-11-15T03:00:29.806903+00:00"
+      "stars": 8864,
+      "forks": 760,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "vinta/hal-9000": {
       "stars": 138,
@@ -2638,7 +2608,7 @@
     "rogerchappel/launchclip": {
       "stars": 0,
       "forks": 0,
-      "captured_at": "2026-10-26T01:36:00.770820+00:00"
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "Qumge/qumge-skill": {
       "stars": 0,
@@ -2721,9 +2691,9 @@
       "captured_at": "2026-10-28T02:32:59.978325+00:00"
     },
     "anbeime/skill": {
-      "stars": 9570,
-      "forks": 844,
-      "captured_at": "2026-11-15T03:00:29.806903+00:00"
+      "stars": 9597,
+      "forks": 847,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "bezda-team/rhp": {
       "stars": 47,
@@ -2763,7 +2733,7 @@
     "rjmurillo/ai-agents": {
       "stars": 49,
       "forks": 17,
-      "captured_at": "2026-10-31T02:41:08.939644+00:00"
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "vargHQ/skills": {
       "stars": 21,
@@ -2846,9 +2816,9 @@
       "captured_at": "2026-11-02T02:42:49.001172+00:00"
     },
     "JuneYaooo/awesome-medical-ai-skills": {
-      "stars": 22,
+      "stars": 23,
       "forks": 6,
-      "captured_at": "2026-11-14T03:30:27.000845+00:00"
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "Teycir/SkillsGuard": {
       "stars": 15,
@@ -3288,7 +3258,7 @@
     "JiamingShi-JsPhys/chelate-shell": {
       "stars": 11,
       "forks": 0,
-      "captured_at": "2026-11-15T03:00:29.806903+00:00"
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     },
     "the911fund/skill-of-skills": {
       "stars": 84,
@@ -3374,6 +3344,31 @@
       "stars": 0,
       "forks": 0,
       "captured_at": "2026-11-15T03:00:29.806903+00:00"
+    },
+    "Nbill27/academic-writing-skills": {
+      "stars": 5,
+      "forks": 0,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
+    },
+    "getdevintern/devintern": {
+      "stars": 4,
+      "forks": 1,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
+    },
+    "RakTikoo/skillscan": {
+      "stars": 1,
+      "forks": 4,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
+    },
+    "lanbass869-cell/canari": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
+    },
+    "UnderleveledBuilder/awesome-seo-geo-skills": {
+      "stars": 54,
+      "forks": 10,
+      "captured_at": "2026-11-16T02:59:58.864418+00:00"
     }
   }
 }
