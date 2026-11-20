@@ -1,9 +1,9 @@
 {
   "repositories": {
     "sickn33/agentic-awesome-skills": {
-      "stars": 49971,
-      "forks": 7244,
-      "captured_at": "2026-11-19T04:27:20.138733+00:00"
+      "stars": 50006,
+      "forks": 7248,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "linny006/awesome-agent-skills": {
       "stars": 45,
@@ -51,9 +51,9 @@
       "captured_at": "2026-08-31T01:33:28.029244+00:00"
     },
     "heilcheng/awesome-agent-skills": {
-      "stars": 6406,
+      "stars": 6414,
       "forks": 856,
-      "captured_at": "2026-11-19T04:27:20.138733+00:00"
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "VoltAgent/awesome-agent-skills": {
       "stars": 37219,
@@ -136,9 +136,9 @@
       "captured_at": "2026-09-17T01:39:25.191522+00:00"
     },
     "JasonColapietro/suede-creator-skills": {
-      "stars": 121,
-      "forks": 12,
-      "captured_at": "2026-11-08T02:40:00.574799+00:00"
+      "stars": 120,
+      "forks": 14,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "upex-galaxy/agentic-qa-boilerplate": {
       "stars": 26,
@@ -184,16 +184,6 @@
       "stars": 1062,
       "forks": 67,
       "captured_at": "2026-09-04T01:18:09.730950+00:00"
-    },
-    "galiprandi/job-seeker": {
-      "stars": 17,
-      "forks": 1,
-      "captured_at": "2026-08-21T23:53:21.827742+00:00"
-    },
-    "Floe-Labs/floe-labs-docs": {
-      "stars": 1,
-      "forks": 0,
-      "captured_at": "2026-08-21T23:53:21.827742+00:00"
     },
     "itsmostafa/aws-agent-skills": {
       "stars": 1157,
@@ -253,7 +243,7 @@
     "synthesisengineering/synthesis-skills": {
       "stars": 27,
       "forks": 4,
-      "captured_at": "2026-11-18T04:41:03.840449+00:00"
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "Aditya923-c/xpoz-agent-skills": {
       "stars": 5,
@@ -261,9 +251,9 @@
       "captured_at": "2026-10-02T02:32:08.159309+00:00"
     },
     "apify/agent-skills": {
-      "stars": 2508,
+      "stars": 2511,
       "forks": 281,
-      "captured_at": "2026-11-19T04:27:20.138733+00:00"
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "simota/agent-skills": {
       "stars": 101,
@@ -325,45 +315,10 @@
       "forks": 123,
       "captured_at": "2026-11-19T04:27:20.138733+00:00"
     },
-    "meta-quest/agentic-tools": {
-      "stars": 181,
-      "forks": 17,
-      "captured_at": "2026-08-21T23:53:21.827742+00:00"
-    },
-    "Lekssays/codebadger": {
-      "stars": 158,
-      "forks": 19,
-      "captured_at": "2026-08-21T23:53:21.827742+00:00"
-    },
-    "Bevel-Software/Hexis": {
-      "stars": 75,
-      "forks": 7,
-      "captured_at": "2026-08-21T23:53:21.827742+00:00"
-    },
-    "ai-assist-org/ai-assist": {
-      "stars": 5,
-      "forks": 3,
-      "captured_at": "2026-08-21T23:53:21.827742+00:00"
-    },
     "khaoss85/agent-crm": {
       "stars": 2,
       "forks": 1,
       "captured_at": "2026-11-09T02:55:58.637056+00:00"
-    },
-    "jdpalumbo2/workbench": {
-      "stars": 1,
-      "forks": 0,
-      "captured_at": "2026-08-21T23:53:21.827742+00:00"
-    },
-    "ryanduguid/JohnKenley": {
-      "stars": 0,
-      "forks": 0,
-      "captured_at": "2026-08-21T23:53:21.827742+00:00"
-    },
-    "ferryhe/issue-to-merge": {
-      "stars": 0,
-      "forks": 0,
-      "captured_at": "2026-08-21T23:53:21.827742+00:00"
     },
     "wshobson/agents": {
       "stars": 39051,
@@ -406,9 +361,9 @@
       "captured_at": "2026-08-23T23:51:39.586001+00:00"
     },
     "GarethManning/education-agent-skills": {
-      "stars": 1002,
-      "forks": 142,
-      "captured_at": "2026-11-19T04:27:20.138733+00:00"
+      "stars": 1005,
+      "forks": 143,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "liuboacean/mubu-integration": {
       "stars": 12,
@@ -818,12 +773,12 @@
     "MoizIbnYousaf/ai-agent-skills": {
       "stars": 1162,
       "forks": 138,
-      "captured_at": "2026-11-19T04:27:20.138733+00:00"
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "mvanhorn/last30days-skill": {
-      "stars": 67790,
-      "forks": 5974,
-      "captured_at": "2026-11-16T02:59:58.864418+00:00"
+      "stars": 70909,
+      "forks": 6317,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "saidake/code-trace-tree-jetbrains": {
       "stars": 52,
@@ -1076,9 +1031,9 @@
       "captured_at": "2026-09-08T01:21:25.324011+00:00"
     },
     "KCNyu/clawock": {
-      "stars": 23,
+      "stars": 25,
       "forks": 0,
-      "captured_at": "2026-11-07T03:09:14.283182+00:00"
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "hyperb1iss/sibyl": {
       "stars": 63,
@@ -1106,9 +1061,9 @@
       "captured_at": "2026-09-10T01:24:12.137702+00:00"
     },
     "Cotal-AI/Cotal": {
-      "stars": 395,
-      "forks": 49,
-      "captured_at": "2026-11-17T05:12:54.616087+00:00"
+      "stars": 404,
+      "forks": 50,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "inkeep/open-knowledge-skills": {
       "stars": 8,
@@ -1693,7 +1648,7 @@
     "sudosubin/agents.nix": {
       "stars": 21,
       "forks": 5,
-      "captured_at": "2026-11-19T04:27:20.138733+00:00"
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "membranehq/agent-skills": {
       "stars": 5,
@@ -1832,8 +1787,8 @@
     },
     "CasualSecurityInc/xno-skills": {
       "stars": 6,
-      "forks": 2,
-      "captured_at": "2026-10-19T01:36:01.284333+00:00"
+      "forks": 4,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "thada2402/AutoResearchClaw": {
       "stars": 1,
@@ -2818,7 +2773,7 @@
     "777genius/universal-agent-plugins": {
       "stars": 18,
       "forks": 5,
-      "captured_at": "2026-11-19T04:27:20.138733+00:00"
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "Digidai/website2markdown": {
       "stars": 8,
@@ -3106,9 +3061,9 @@
       "captured_at": "2026-11-13T03:33:17.241960+00:00"
     },
     "nexu-io/openmotion": {
-      "stars": 11910,
-      "forks": 1195,
-      "captured_at": "2026-11-19T04:27:20.138733+00:00"
+      "stars": 13138,
+      "forks": 1292,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "DarkWorldCoder/market-mirror": {
       "stars": 16,
@@ -3359,6 +3314,56 @@
       "stars": 11,
       "forks": 3,
       "captured_at": "2026-11-19T04:27:20.138733+00:00"
+    },
+    "yeisonrestrepo/code-conductor": {
+      "stars": 19,
+      "forks": 0,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
+    },
+    "kaomei/stickman-video-director": {
+      "stars": 7077,
+      "forks": 1245,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
+    },
+    "Drix10/ai-resources": {
+      "stars": 134,
+      "forks": 26,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
+    },
+    "BingoWon/apple-rag-mcp": {
+      "stars": 116,
+      "forks": 0,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
+    },
+    "davidtoby/agent-skills": {
+      "stars": 11,
+      "forks": 0,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
+    },
+    "AntelopeJS/dms-assistant": {
+      "stars": 2,
+      "forks": 1,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
+    },
+    "rishabhrawat35/idea-research": {
+      "stars": 1,
+      "forks": 0,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
+    },
+    "xgbtxy/ap": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
+    },
+    "kubai087/kubai-icons": {
+      "stars": 1041,
+      "forks": 49,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
+    },
+    "franklinxkk/ai-delivery-spec": {
+      "stars": 37,
+      "forks": 6,
+      "captured_at": "2026-11-20T04:13:39.541404+00:00"
     }
   }
 }
