@@ -1,9 +1,9 @@
 {
   "repositories": {
     "sickn33/agentic-awesome-skills": {
-      "stars": 50341,
-      "forks": 7306,
-      "captured_at": "2026-11-26T05:22:59.726575+00:00"
+      "stars": 50410,
+      "forks": 7312,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "linny006/awesome-agent-skills": {
       "stars": 45,
@@ -51,9 +51,9 @@
       "captured_at": "2026-08-31T01:33:28.029244+00:00"
     },
     "heilcheng/awesome-agent-skills": {
-      "stars": 6434,
-      "forks": 876,
-      "captured_at": "2026-11-26T05:22:59.726575+00:00"
+      "stars": 6438,
+      "forks": 875,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "VoltAgent/awesome-agent-skills": {
       "stars": 37219,
@@ -84,11 +84,6 @@
       "stars": 17974,
       "forks": 1371,
       "captured_at": "2026-11-05T03:41:11.315490+00:00"
-    },
-    "NeverSight/learn-skills.dev": {
-      "stars": 206,
-      "forks": 35,
-      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "CyranoB/web-forager": {
       "stars": 10,
@@ -128,7 +123,7 @@
     "JasonColapietro/suede-creator-skills": {
       "stars": 121,
       "forks": 14,
-      "captured_at": "2026-11-26T05:22:59.726575+00:00"
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "upex-galaxy/agentic-qa-boilerplate": {
       "stars": 26,
@@ -200,11 +195,6 @@
       "forks": 10,
       "captured_at": "2026-09-23T01:43:21.322937+00:00"
     },
-    "hybridlabor-api/bdb-dev-optimized-agent-skills": {
-      "stars": 5,
-      "forks": 0,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
-    },
     "ssheleg/sshlg-skills": {
       "stars": 14,
       "forks": 1,
@@ -236,9 +226,9 @@
       "captured_at": "2026-10-02T02:32:08.159309+00:00"
     },
     "apify/agent-skills": {
-      "stars": 2518,
-      "forks": 284,
-      "captured_at": "2026-11-26T05:22:59.726575+00:00"
+      "stars": 2521,
+      "forks": 286,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "simota/agent-skills": {
       "stars": 101,
@@ -316,9 +306,9 @@
       "captured_at": "2026-09-27T01:43:38.929290+00:00"
     },
     "GarethManning/education-agent-skills": {
-      "stars": 1031,
+      "stars": 1037,
       "forks": 146,
-      "captured_at": "2026-11-26T05:22:59.726575+00:00"
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "Vivswan/skills": {
       "stars": 1,
@@ -355,11 +345,6 @@
       "forks": 427,
       "captured_at": "2026-11-02T02:42:49.001172+00:00"
     },
-    "VoDaiLocz/kilo-kit-mcp": {
-      "stars": 24,
-      "forks": 2,
-      "captured_at": "2026-08-29T04:18:02.462543+00:00"
-    },
     "ryanduguid/australian-accounting-skills": {
       "stars": 10,
       "forks": 2,
@@ -371,74 +356,19 @@
       "captured_at": "2026-11-04T03:10:31.766894+00:00"
     },
     "akto-api-security/akto": {
-      "stars": 1506,
+      "stars": 1552,
       "forks": 293,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
-    },
-    "BackTrackCo/tenjin-agent": {
-      "stars": 7,
-      "forks": 1,
-      "captured_at": "2026-08-29T04:18:02.462543+00:00"
-    },
-    "lukedj78/dev-flow": {
-      "stars": 5,
-      "forks": 1,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
-    },
-    "lzehrung/codegraph": {
-      "stars": 4,
-      "forks": 0,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
-    },
-    "avivsinai/skills-marketplace": {
-      "stars": 2,
-      "forks": 1,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
-    },
-    "agentskillexchange/agent-skills-resources": {
-      "stars": 1,
-      "forks": 0,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
-    },
-    "sightkick-so/skill": {
-      "stars": 0,
-      "forks": 0,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "AtlasCloudAI/awesome-seedance-2.5-prompts-skills": {
       "stars": 274,
       "forks": 27,
       "captured_at": "2026-11-22T03:26:12.124407+00:00"
     },
-    "MartinDelophy/ai-video-editor": {
-      "stars": 602,
-      "forks": 75,
-      "captured_at": "2026-08-28T07:03:19.203996+00:00"
-    },
-    "conorbronsdon/agent-context-os": {
-      "stars": 15,
-      "forks": 2,
-      "captured_at": "2026-08-29T04:18:02.462543+00:00"
-    },
     "saidake/code-trace-tree-vscode": {
       "stars": 24,
       "forks": 1,
       "captured_at": "2026-09-02T01:18:57.631937+00:00"
-    },
-    "JAIPilot/jaipilot": {
-      "stars": 5,
-      "forks": 1,
-      "captured_at": "2026-08-29T04:18:02.462543+00:00"
-    },
-    "Amey-Thakur/AI-SKILLS": {
-      "stars": 5,
-      "forks": 1,
-      "captured_at": "2026-08-29T04:18:02.462543+00:00"
-    },
-    "smsheik1/wiggly": {
-      "stars": 1,
-      "forks": 1,
-      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "industrial-aiops/industrial-aiops": {
       "stars": 7,
@@ -450,25 +380,10 @@
       "forks": 0,
       "captured_at": "2026-10-08T02:52:14.601357+00:00"
     },
-    "basecamp/skills": {
-      "stars": 68,
-      "forks": 7,
-      "captured_at": "2026-08-29T04:18:02.462543+00:00"
-    },
     "NocodeMrLi/mini-program-engineering-skill-suite": {
       "stars": 25,
       "forks": 3,
       "captured_at": "2026-09-01T02:01:12.240771+00:00"
-    },
-    "TidyFactor/TidyFactor": {
-      "stars": 9,
-      "forks": 2,
-      "captured_at": "2026-08-29T04:18:02.462543+00:00"
-    },
-    "flurdy/agent-skills": {
-      "stars": 7,
-      "forks": 0,
-      "captured_at": "2026-08-29T04:18:02.462543+00:00"
     },
     "fy-agent/fyagent": {
       "stars": 686,
@@ -621,14 +536,14 @@
       "captured_at": "2026-09-01T02:01:12.240771+00:00"
     },
     "MoizIbnYousaf/ai-agent-skills": {
-      "stars": 1161,
+      "stars": 1162,
       "forks": 139,
-      "captured_at": "2026-11-26T05:22:59.726575+00:00"
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "mvanhorn/last30days-skill": {
-      "stars": 73649,
-      "forks": 6496,
-      "captured_at": "2026-11-24T07:03:40.881546+00:00"
+      "stars": 75905,
+      "forks": 6691,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "saidake/code-trace-tree-jetbrains": {
       "stars": 52,
@@ -1241,9 +1156,9 @@
       "captured_at": "2026-09-19T01:30:42.131002+00:00"
     },
     "bjcoombs/ai-native-toolkit": {
-      "stars": 34,
+      "stars": 35,
       "forks": 5,
-      "captured_at": "2026-11-25T05:38:30.024198+00:00"
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "usetemi/skills": {
       "stars": 6,
@@ -1731,9 +1646,9 @@
       "captured_at": "2026-10-24T01:55:00.816294+00:00"
     },
     "heymegabyte/agent-skills": {
-      "stars": 26,
-      "forks": 5,
-      "captured_at": "2026-10-30T02:52:46.228646+00:00"
+      "stars": 30,
+      "forks": 6,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "reticlehq/reticle": {
       "stars": 1275,
@@ -3171,9 +3086,9 @@
       "captured_at": "2026-11-20T04:13:39.541404+00:00"
     },
     "kaomei/stickman-video-director": {
-      "stars": 7356,
-      "forks": 1290,
-      "captured_at": "2026-11-22T03:26:12.124407+00:00"
+      "stars": 8568,
+      "forks": 1476,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "Drix10/ai-resources": {
       "stars": 134,
@@ -3251,9 +3166,9 @@
       "captured_at": "2026-11-21T04:13:39.596825+00:00"
     },
     "muratcankoylan/Agent-Skills-for-Context-Engineering": {
-      "stars": 18394,
-      "forks": 1520,
-      "captured_at": "2026-11-22T03:26:12.124407+00:00"
+      "stars": 18437,
+      "forks": 1524,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "ntholm86/principles-of-earned-autonomy-skills-suite": {
       "stars": 4,
@@ -3286,9 +3201,9 @@
       "captured_at": "2026-11-22T03:26:12.124407+00:00"
     },
     "heygen-com/hyperframes": {
-      "stars": 90292,
-      "forks": 8409,
-      "captured_at": "2026-11-26T05:22:59.726575+00:00"
+      "stars": 90994,
+      "forks": 8492,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     },
     "originaleric/digcrawl": {
       "stars": 324,
@@ -3429,6 +3344,61 @@
       "stars": 157,
       "forks": 16,
       "captured_at": "2026-11-26T05:22:59.726575+00:00"
+    },
+    "omnimux-ai/omnimux-client": {
+      "stars": 146,
+      "forks": 3,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
+    },
+    "nexu-io/opengame": {
+      "stars": 1311,
+      "forks": 219,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
+    },
+    "LocalSymmetry/lofn": {
+      "stars": 24,
+      "forks": 1,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
+    },
+    "polystartup/dispand": {
+      "stars": 1,
+      "forks": 1,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
+    },
+    "pizzaAndCupcakes/laudex-skill": {
+      "stars": 1,
+      "forks": 0,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
+    },
+    "CLOUDWERX-DEV/Ghosthand": {
+      "stars": 1,
+      "forks": 0,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
+    },
+    "Victris-AI/victris-arena-sdk": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
+    },
+    "autoposterai/agent-skills": {
+      "stars": 0,
+      "forks": 0,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
+    },
+    "Samsung/tizen-agent-skills": {
+      "stars": 24,
+      "forks": 6,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
+    },
+    "brenoepics/video-to-skill": {
+      "stars": 179,
+      "forks": 26,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
+    },
+    "rig-c/core": {
+      "stars": 30,
+      "forks": 5,
+      "captured_at": "2026-11-27T05:17:59.911878+00:00"
     }
   }
 }
